@@ -1,3 +1,3 @@
 # rentloc
 
-[![Binder](https://mybinder.org/badge.svg)](https://hub.mybinder.org/user/rentloc-rentloc-apnbjx4x/lab)
+[![Binder](https://mybinder.org/badge.svg)(https://mybinder.org/v2/gh/rentloc/rentloc/master?filepath=dataPrep.ipynb?urlpath=lab)
